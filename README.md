@@ -5,3 +5,4 @@ This shim was made to compatibilize the Hantro x170 hardware codec OpenMAX libra
 
 You may meed to tweak `Makefile` to achieve a successful build. Specially you need to set the path to your Android NDK. Also you will probably like to have the toolchain executables in your `PATH`
 
+Also, you may (optionally) replace the libraries on `./lib` by the ones extracted from your device. This shouldn't be needed.
