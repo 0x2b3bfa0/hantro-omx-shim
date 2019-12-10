@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017 Helio Machado <crushedice2000@gmail.com>
+ * Copyright (c) 2017 Helio Machado <0x2b3bfa0>
  * 
  * libon2_hantro_core.h - OpenMax IL version 1.1.2 for Hantro x170.
  * The libon2_hantro_core header file contains the function signatures
